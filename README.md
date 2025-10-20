@@ -1,4 +1,3 @@
-Name: Zaheena Anwar
+Name:Zaheena Anwar
 
-Roll no: 2023-BSE-070
-BSE-5B
+Roll no:2023-BSE-070
